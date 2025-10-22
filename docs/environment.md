@@ -245,7 +245,7 @@ services:
     # MySQLコンテナ
     - イメージ: mysql:8.0
     - ポート公開: 3306
-    - ヘルスチェック有効
+    - ヘルスチェ
 ```
 
 #### GPU環境（docker-compose.gpu.yml）
